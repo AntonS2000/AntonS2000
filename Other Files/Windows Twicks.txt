@@ -1,0 +1,9 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions
+
+Создать раздел "Blocked"
+
+Создать строковый параметр {e2bf9676-5f8f-435c-97eb-11607a5bedf7}
+
+winget uninstall "windows web experience pack"
+
+Компьютер\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\

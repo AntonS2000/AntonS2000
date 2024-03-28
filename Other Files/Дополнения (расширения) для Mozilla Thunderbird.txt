@@ -1,0 +1,7 @@
+Дополнения/Расширения для Mozilla Thunderbird:
+
+- LanguageTool — корректор грамматики и орфографии;
+- Minimize at startup;
+- Minimize on Close;
+- Phoenity Icons/Old Icons;
+- Web Translate.
