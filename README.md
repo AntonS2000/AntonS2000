@@ -33,7 +33,7 @@
   <h1>Освоенные технологии и инструменты</h1>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=windows,linux,python,cpp,docker,github,gitlab,powershell,vscode,blender,ps,pr,ae,au,md,latex,html,css,wordpress&perline=8"><!--https://github.com/tandpfun/skill-icons-->
+      <img src="https://skillicons.dev/icons?i=windows,linux,python,qt,cpp,docker,github,gitlab,powershell,vscode,blender,ps,pr,ae,au,md,latex,html,css,wordpress&perline=10">
     </a>
   </p>
 </div>
